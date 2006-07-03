@@ -1,0 +1,573 @@
+Kadava si ek '''patrinipen le internetoske umalurya (TLD)'''.
+
+{| class="wikitable"
+|- style="background-color: #a0d0ff;"
+!iTLD!!Entity!!Notes
+|-
+| [[.arpa]] || Address and Routing Parameter Area || This is an internet infrastructure tld.
+|-
+| [[.root]] || unknown || This is in root for some unknown purpose, with only one entry (a TXT record).
+|- style="background-color: #a0d0ff;"
+![[gTLD]]!!Entity!!Notes
+
+|-
+| [[.aero]] || air-transport industry || &nbsp;
+|-
+| [[.biz]] || business || This is an open TLD; any person or entity is permitted to register.
+|-
+| [[.cat]] || Catalan || This is a TLD for websites in the [[Catalan language]] or related to Catalan culture.
+|-
+| [[.com]] || commercial || This is an open TLD; any person or entity is permitted to register.
+|-
+| [[.coop]] || cooperatives || The .coop TLD is limited to cooperatives as defined by the [[Rochdale Principles]].
+|-
+| [[.edu]] || educational || The .edu TLD is limited to institutions of learning (mostly U.S.), such as 2 and 4-year colleges and universities.
+|-
+| [[.gov]] ||  governmental || The .gov TLD is limited to US governmental entities and agencies
+|-
+| [[.info]] || information || This is an open TLD; any person or entity is permitted to register.
+|-
+| [[.int]] || international organizations || The .int TLD is strictly limited to organizations, offices, and programs which are endorsed by a treaty between two or more nations.
+|-
+| [[.jobs]] || companies || The .jobs TLD is designed to be added after the names of established companies with jobs to advertise. At this time, owners of a "company.jobs" domain are not permitted to post jobs of third party employers.
+|-
+| [[.mil]] || [[Military of the United States|United States Military]] || The .mil TLD is limited to use by the U.S. military
+|-
+| [[.mobi]] || mobile devices || &nbsp;
+|-
+| [[.museum]] || museums || &nbsp;
+|-
+| [[.name]] || individuals, by name || This is an open TLD; any person or entity is permitted to register.
+|-
+| [[.net]] || network || This is an open TLD; any person or entity is permitted to register.
+|-
+| [[.org]] || organization || This is an open TLD; any person or entity is permitted to register.
+|-
+| [[.pro]] || professions || Currently, .pro is reserved for licensed doctors, attorneys, and certified public accountants only. A professional seeking to register a .pro domain must provide their registrar with the appropriate credentials.
+|-
+| [[.travel]] || travel and travel-agency related sites || &nbsp;
+|-
+<!--
+|-
+| [[.xxx]] || Adult-oriented websites ([[Pornography]]) || &nbsp;
+ICANN has approved this TLD in principle, but it has not been added to the root yet.
+-->
+
+|- style="background-color: #a0d0ff;"
+![[ccTLD]]!!Country/dependency/region!!Notes
+|-
+| [[.ac]] || [[Ascension Island]] || &nbsp;
+|-
+| [[.ad]] || [[Andorra]] || &nbsp;
+|-
+| [[.ae]] || [[United Arab Emirates]] || &nbsp;
+|-
+| [[.af]] || [[Afghanistan]] || &nbsp;
+|-
+| [[.ag]] || [[Antigua and Barbuda]] || &nbsp;
+|-
+| [[.ai]] || [[Anguilla]] || &nbsp;
+|-
+| [[.al]] || [[Albania]] || &nbsp;
+|-
+| [[.am]] || [[Armenia]] || &nbsp;
+|-
+| [[.an]] || [[Netherlands Antilles]] || &nbsp;
+|-
+| [[.ao]] || [[Angola]] || &nbsp;
+|-
+| [[.aq]] || [[Antarctica]] || Defined as per the [[Antarctic Treaty System|Antarctic Treaty]] as everything south of latitude 60°S
+|-
+| [[.ar]] || [[Argentina]] || &nbsp;
+|-
+| [[.as]] || [[American Samoa]] || &nbsp;
+|-
+| [[.at]] || [[Austria]] || &nbsp;
+|-
+| [[.au]] || [[Australia]] || Includes [[Ashmore and Cartier Islands]] and [[Coral Sea Islands]]
+|-
+| [[.aw]] || [[Aruba]] || &nbsp;
+|-
+| [[.ax]] || [[Åland]] || &nbsp;
+|-
+| [[.az]] || [[Azerbaijan]] || &nbsp;
+|-
+| [[.ba]] || [[Bosnia and Herzegovina]] || &nbsp;
+|-
+| [[.bb]] || [[Barbados]] || &nbsp;
+|-
+| [[.bd]] || [[Bangladesh]] || &nbsp;
+|-
+| [[.be]] || [[Belgium]] || &nbsp;
+|-
+| [[.bf]] || [[Burkina Faso]] || &nbsp;
+|-
+| [[.bg]] || [[Bulgaria]] || &nbsp;
+|-
+| [[.bh]] || [[Bahrain]] || &nbsp;
+|-
+| [[.bi]] || [[Burundi]] || &nbsp;
+|-
+| [[.bj]] || [[Benin]] || &nbsp;
+|-
+| [[.bm]] || [[Bermuda]] || &nbsp;
+|-
+| [[.bn]] || [[Brunei|Brunei Darussalam]] || &nbsp;
+|-
+| [[.bo]] || [[Bolivia]] || &nbsp;
+|-
+| [[.br]] || [[Brazil]] || &nbsp;
+|-
+| [[.bs]] || [[Bahamas]] || &nbsp;
+|-
+| [[.bt]] || [[Bhutan]] || &nbsp;
+|-
+| [[.bv]] || [[Bouvet Island]] || Not in use (Norwegian dependency; see .no)
+|-
+| [[.bw]] || [[Botswana]] || &nbsp;
+|-
+| [[.by]] || [[Belarus]] || &nbsp;
+|-
+| [[.bz]] || [[Belize]] || &nbsp;
+|-
+| [[.ca]] || [[Canada]] || &nbsp;
+|-
+| [[.cc]] || [[Cocos Islands|Cocos (Keeling) Islands]] || &nbsp;
+|-
+| [[.cd]] || [[Democratic Republic of the Congo]] || Formerly [[Zaire]]
+|-
+| [[.cf]] || [[Central African Republic]] || &nbsp;
+|-
+| [[.cg]] || [[Republic of the Congo]] || &nbsp;
+|-
+| [[.ch]] || [[Switzerland]] (Confoederatio Helvetica) || &nbsp;
+|-
+| [[.ci]] || [[Côte d'Ivoire]] || &nbsp;
+|-
+| [[.ck]] || [[Cook Islands]] || &nbsp;
+|-
+| [[.cl]] || [[Chile]] || &nbsp;
+|-
+| [[.cm]] || [[Cameroon]] || &nbsp;
+|-
+| [[.cn]] || [[People's Republic of China]] || [[Mainland China]] only: [[Hong Kong]], [[Macau]], and Taiwan ([[Republic of China]]) use separate TLDs.
+|-
+| [[.co]] || [[Colombia]] || &nbsp;
+|-
+| [[.cr]] || [[Costa Rica]] || &nbsp;
+|-
+| [[.cu]] || [[Cuba]] || &nbsp;
+|-
+| [[.cv]] || [[Cape Verde]] || &nbsp;
+|-
+| [[.cx]] || [[Christmas Island]] || &nbsp;
+|-
+| [[.cy]] || [[Cyprus]] || &nbsp;
+|-
+| [[.cz]] || [[Czech Republic]] || &nbsp;
+|-
+| [[.de]] || [[Germany]] (Deutschland) || &nbsp;
+|-
+| [[.dj]] || [[Djibouti]] || &nbsp;
+|-
+| [[.dk]] || [[Denmark]] || &nbsp;
+|-
+| [[.dm]] || [[Dominica]] || &nbsp;
+|-
+| [[.do]] || [[Dominican Republic]] || &nbsp;
+|-
+| [[.dz]] || [[Algeria]] || Not available for private use
+|-
+| [[.ec]] || [[Ecuador]] || &nbsp;
+|-
+| [[.ee]] || [[Estonia]] || &nbsp;
+|-
+| [[.eg]] || [[Egypt]] || &nbsp;
+|-
+| [[.er]] || [[Eritrea]] || &nbsp;
+|-
+| [[.es]] || [[Spain]] (España) || &nbsp;
+|-
+| [[.et]] || [[Ethiopia]] || &nbsp;
+|-
+| [[.eu]] || [[European Union]] || &nbsp;
+|-
+| [[.fi]] || [[Finland]] || &nbsp;
+|-
+| [[.fj]] || [[Fiji]] || &nbsp;
+|-
+| [[.fk]] || [[Falkland Islands]] || &nbsp;
+|-
+| [[.fm]] || [[Federated States of Micronesia]] || Used for some radio related websites outside Micronesia
+|-
+| [[.fo]] || [[Faroe Islands]] || &nbsp;
+|-
+| [[.fr]] || [[France]] || &nbsp;
+|-
+| [[.ga]] || [[Gabon]] || &nbsp;
+|-
+| [[.gb]] || [[United Kingdom]] || Seldom used; the primary ccTLD is [[.uk]]
+|-
+| [[.gd]] || [[Grenada]] || &nbsp;
+|-
+| [[.ge]] || [[Georgia (country)|Georgia]] || &nbsp;
+|-
+| [[.gf]] || [[French Guiana]] || &nbsp;
+|-
+| [[.gg]] || [[Guernsey]] || &nbsp;
+|-
+| [[.gh]] || [[Ghana]] || &nbsp;
+|-
+| [[.gi]] || [[Gibraltar]] || &nbsp;
+|-
+| [[.gl]] || [[Greenland]] || &nbsp;
+|-
+| [[.gm]] || [[The Gambia]] || &nbsp;
+|-
+| [[.gn]] || [[Guinea]] || &nbsp;
+|-
+| [[.gp]] || [[Guadeloupe]] || &nbsp;
+|-
+| [[.gq]] || [[Equatorial Guinea]] || &nbsp;
+|-
+| [[.gr]] || [[Greece]] || &nbsp;
+|-
+| [[.gs]] || [[South Georgia and the South Sandwich Islands]] || &nbsp;
+|-
+| [[.gt]] || [[Guatemala]] || &nbsp;
+|-
+| [[.gu]] || [[Guam]] || &nbsp;
+|-
+| [[.gw]] || [[Guinea-Bissau]] || &nbsp;
+|-
+| [[.gy]] || [[Guyana]] || &nbsp;
+|-
+| [[.hk]] || [[Hong Kong]] || [[Special administrative region]] of the [[People's Republic of China]].
+|-
+| [[.hm]] || [[Heard Island and McDonald Islands]] || &nbsp;
+|-
+| [[.hn]] || [[Honduras]] || &nbsp;
+|-
+| [[.hr]] || [[Croatia]] (Hrvatska) || &nbsp;
+|-
+| [[.ht]] || [[Haiti]] || &nbsp;
+|-
+| [[.hu]] || [[Hungary]] || &nbsp;
+|-
+| [[.id]] || [[Indonesia]] || &nbsp;
+|-
+| [[.ie]] || [[Republic of Ireland|Ireland]] (Eire)|| &nbsp;
+|-
+| [[.il]] || [[Israel]] || &nbsp;
+|-
+| [[.im]] || [[Isle of Man]] || &nbsp;
+|-
+| [[.in]] || [[India]] || &nbsp;
+|-
+| [[.io]] || [[British Indian Ocean Territory]] || &nbsp;
+|-
+| [[.iq]] || [[Iraq]] || &nbsp;
+|-
+| [[.ir]] || [[Iran]] || &nbsp;
+|-
+| [[.is]] || [[Iceland]] || &nbsp;
+|-
+| [[.it]] || [[Italy]] || Restricted to companies and individuals in the [[European Union]]
+|-
+| [[.je]] || [[Jersey]] || &nbsp;
+|-
+| [[.jm]] || [[Jamaica]] || &nbsp;
+|-
+| [[.jo]] || [[Jordan]] || &nbsp;
+|-
+| [[.jp]] || [[Japan]] || &nbsp;
+|-
+| [[.ke]] || [[Kenya]] || &nbsp;
+|-
+| [[.kg]] || [[Kyrgyzstan]] || &nbsp;
+|-
+| [[.kh]] || [[Cambodia]] (Khmer) || &nbsp;
+|-
+| [[.ki]] || [[Kiribati]] || &nbsp;
+|-
+| [[.km]] || [[Comoros]] || &nbsp;
+|-
+| [[.kn]] || [[Saint Kitts and Nevis]] || &nbsp;
+|-
+| [[.kr]] || [[South Korea]] || &nbsp;
+|-
+| [[.kw]] || [[Kuwait]] || &nbsp;
+|-
+| [[.ky]] || [[Cayman Islands]] || &nbsp;
+|-
+| [[.kz]] || [[Kazakhstan]] || &nbsp;
+|-
+| [[.la]] || [[Laos]] || &nbsp;
+|-
+| [[.lb]] || [[Lebanon]] || &nbsp;
+|-
+| [[.lc]] || [[Saint Lucia]] || &nbsp;
+|-
+| [[.li]] || [[Liechtenstein]] || &nbsp;
+|-
+| [[.lk]] || [[Sri Lanka]] || &nbsp;
+|-
+| [[.lr]] || [[Liberia]] || &nbsp;
+|-
+| [[.ls]] || [[Lesotho]] || &nbsp;
+|-
+| [[.lt]] || [[Lithuania]] || &nbsp;
+|-
+| [[.lu]] || [[Luxembourg]] || &nbsp;
+|-
+| [[.lv]] || [[Latvia]] || &nbsp;
+|-
+| [[.ly]] || [[Libya]] || &nbsp;
+|-
+| [[.ma]] || [[Morocco]] || &nbsp;
+|-
+| [[.mc]] || [[Monaco]] || &nbsp;
+|-
+| [[.md]] || [[Moldova]] || &nbsp;
+|-
+| [[.mg]] || [[Madagascar]] || &nbsp;
+|-
+| [[.mh]] || [[Marshall Islands]] || &nbsp;
+|-
+| [[.mk]] || [[Republic of Macedonia]] || &nbsp;
+|-
+| [[.ml]] || [[Mali]] || &nbsp;
+|-
+| [[.mm]] || [[Myanmar]] || &nbsp;
+|-
+| [[.mn]] || [[Mongolia]] || &nbsp;
+|-
+| [[.mo]] || [[Macau]] || [[Special administrative region]] of the [[People's Republic of China]].
+|-
+| [[.mp]] || [[Northern Mariana Islands]] || &nbsp;
+|-
+| [[.mq]] || [[Martinique]] || &nbsp;
+|-
+| [[.mr]] || [[Mauritania]] || &nbsp;
+|-
+| [[.ms]] || [[Montserrat]] || &nbsp;
+|-
+| [[.mt]] || [[Malta]] || &nbsp;
+|-
+| [[.mu]] || [[Mauritius]] || &nbsp;
+|-
+| [[.mv]] || [[Maldives]] || &nbsp;
+|-
+| [[.mw]] || [[Malawi]] || &nbsp;
+|-
+| [[.mx]] || [[Mexico]] || &nbsp;
+|-
+| [[.my]] || [[Malaysia]] || &nbsp;
+|-
+| [[.mz]] || [[Mozambique]] || &nbsp;
+|-
+| [[.na]] || [[Namibia]] || &nbsp;
+|-
+| [[.nc]] || [[New Caledonia]] || &nbsp;
+|-
+| [[.ne]] || [[Niger]] || &nbsp;
+|-
+| [[.nf]] || [[Norfolk Island]] || &nbsp;
+|-
+| [[.ng]] || [[Nigeria]] || &nbsp;
+|-
+| [[.ni]] || [[Nicaragua]] || &nbsp;
+|-
+| [[.nl]] || [[Netherlands]] || &nbsp;
+|-
+| [[.no]] || [[Norway]] || &nbsp;
+|-
+| [[.np]] || [[Nepal]] || &nbsp;
+|-
+| [[.nr]] || [[Nauru]] || &nbsp;
+|-
+| [[.nu]] || [[Niue]] || Commonly used for Swedish websites.
+|-
+| [[.nz]] || [[New Zealand]] || &nbsp;
+|-
+| [[.om]] || [[Oman]] || &nbsp;
+|-
+| [[.pa]] || [[Panama]] || &nbsp;
+|-
+| [[.pe]] || [[Peru]] || &nbsp;
+|-
+| [[.pf]] || [[French Polynesia]] || With [[Clipperton Island]]
+|-
+| [[.pg]] || [[Papua New Guinea]] || &nbsp;
+|-
+| [[.ph]] || [[Philippines]] || &nbsp;
+|-
+| [[.pk]] || [[Pakistan]] || &nbsp;
+|-
+| [[.pl]] || [[Poland]] || &nbsp;
+|-
+| [[.pm]] || [[Saint-Pierre and Miquelon]] || &nbsp;
+|-
+| [[.pn]] || [[Pitcairn Islands]] || &nbsp;
+|-
+| [[.pr]] || [[Puerto Rico]] || &nbsp;
+|-
+| [[.ps]] || [[Palestine]] || [[West Bank]] and [[Gaza Strip]]
+|-
+| [[.pt]] || [[Portugal]] || &nbsp;
+|-
+| [[.pw]] || [[Palau]] || &nbsp;
+|-
+| [[.py]] || [[Paraguay]] || &nbsp;
+|-
+| [[.qa]] || [[Qatar]] || &nbsp;
+|-
+| [[.re]] || [[Réunion]] || &nbsp;
+|-
+| [[.ro]] || [[Romania]] || &nbsp;
+|-
+| [[.ru]] || [[Russia]] || &nbsp;
+|-
+| [[.rw]] || [[Rwanda]] || &nbsp;
+|-
+| [[.sa]] || [[Saudi Arabia]] || &nbsp;
+|-
+| [[.sb]] || [[Solomon Islands]] || &nbsp;
+|-
+| [[.sc]] || [[Seychelles]] || &nbsp;
+|-
+| [[.sd]] || [[Sudan]] || &nbsp;
+|-
+| [[.se]] || [[Sweden]] || &nbsp;
+|-
+| [[.sg]] || [[Singapore]] || &nbsp;
+|-
+| [[.sh]] || [[Saint Helena]] || &nbsp;
+|-
+| [[.si]] || [[Slovenia]] || &nbsp;
+|-
+| [[.sj]] || [[Svalbard]] and [[Jan Mayen]] Islands || Not in use (Norwegian dependencies; see .no)
+|-
+| [[.sk]] || [[Slovakia]] || &nbsp;
+|-
+| [[.sl]] || [[Sierra Leone]] || &nbsp;
+|-
+| [[.sm]] || [[San Marino]] || &nbsp;
+|-
+| [[.sn]] || [[Senegal]] || &nbsp;
+|-
+| [[.so (domain name)|.so]] || [[Somalia]] || &nbsp;
+|-
+| [[.sr]] || [[Suriname]] || &nbsp;
+|-
+| [[.st]] || [[São Tomé and Príncipe]] || &nbsp;
+|-
+| [[.su]] || former [[Soviet Union]] || Still in use
+|-
+| [[.sv]] || [[El Salvador]] || &nbsp;
+|-
+| [[.sy]] || [[Syria]] || &nbsp;
+|-
+| [[.sz]] || [[Swaziland]] || &nbsp;
+|-
+| [[.tc]] || [[Turks and Caicos Islands]] || &nbsp;
+|-
+| [[.td]] || [[Chad]] || &nbsp;
+|-
+| [[.tf]] || [[French Southern and Antarctic Lands]] || &nbsp;
+|-
+| [[.tg]] || [[Togo]] || &nbsp;
+|-
+| [[.th]] || [[Thailand]] || &nbsp;
+|-
+| [[.tj]] || [[Tajikistan]] || &nbsp;
+|-
+| [[.tk]] || [[Tokelau]] || Also used as a free domain service to the public
+|-
+| [[.tl]] || [[East Timor]] || Old code .tp is still in use
+|-
+| [[.tm]] || [[Turkmenistan]] || &nbsp;
+|-
+| [[.tn]] || [[Tunisia]] || &nbsp;
+|-
+| [[.to]] || [[Tonga]] || &nbsp;
+|-
+| [[.tp]] || [[East Timor]] || ISO code has changed to TL; .tl is now assigned but .tp is still in use
+|-
+| [[.tr]] || [[Turkey]] || &nbsp;
+|-
+| [[.tt]] || [[Trinidad and Tobago]] || &nbsp;
+|-
+| [[.tv]] || [[Tuvalu]] || Also sold as advertising domains
+|-
+| [[.tw]] || Taiwan ([[Republic of China]]) || Used in the area under the effective control of the Government of the [[Republic of China]], namely [[Taiwan]], [[Penghu]], [[Kinmen]], and [[Matsu Islands|Matsu]].
+|-
+| [[.tz]] || [[Tanzania]] || &nbsp;
+|-
+| [[.ua]] || [[Ukraine]] || &nbsp;
+|-
+| [[.ug]] || [[Uganda]] || &nbsp;
+|-
+| [[.uk]] || [[United Kingdom]] || &nbsp;
+|-
+| [[.um]] || [[United States Minor Outlying Islands]] || &nbsp;
+|-
+| [[.us]] || [[United States|United States of America]] || &nbsp;
+|-
+| [[.uy]] || [[Uruguay]] || &nbsp;
+|-
+| [[.uz]] || [[Uzbekistan]] || &nbsp;
+|-
+| [[.va]] || [[Vatican City|Vatican City State]] || &nbsp;
+|-
+| [[.vc]] || [[Saint Vincent and the Grenadines]] || &nbsp;
+|-
+| [[.ve]] || [[Venezuela]] || &nbsp;
+|-
+| [[.vg]] || [[British Virgin Islands]] || &nbsp;
+|-
+| [[.vi]] || [[U.S. Virgin Islands]] || &nbsp;
+|-
+| [[.vn]] || [[Vyetnam]] || &nbsp;
+|-
+| [[.vu]] || [[Vanuatu]] || &nbsp;
+|-
+| [[.wf]] || [[Wallis thai Futuna]] || &nbsp;
+|-
+| [[.ws]] || [[Samoa]] || Formerly Western Samoa
+|-
+| [[.ye]] || [[Yemen]] || &nbsp;
+|-
+| [[.yt]] || [[Mayotte]] || &nbsp;
+|-
+| [[.yu]] || [[Federal Republic of Yugoslavia|Yugoslavia]] || Now used for [[Serbia]] and [[Montenegro]]
+|-
+| [[.za]] || [[Afrika le Sudosko]] (Zuid Afrika) || &nbsp;
+|-
+| [[.zm]] || [[Zambiya]] || &nbsp;
+|-
+| [[.zw]] || [[Zimbabwe]] || &nbsp;
+|}
+
+==External links==
+*[http://www.iana.org/domain-names.htm IANA janglimata pe TLDurya]
+
+[[Kategoriya:Internetoske umalurya]]
+
+[[cs:Seznam internetových TL domén]]
+[[de:Top Level Domain]]
+[[en:List of Internet top-level domains]]
+[[et:Tippdomeenide loend]]
+[[es:Lista de dominios de Internet]]
+[[fr:Liste des Internet TLD]]
+[[id:TLD]]
+[[nl:Lijst van top-level-domeinnamen op het Internet]]
+[[ja:トップレベルドメイン一覧]]
+[[no:Landskoder (internett)]]
+[[pl:Lista domen najwyższego poziomu]]
+[[pt:Lista de TLDs]]
+[[ro:Listă de domenii internet]]
+[[ru:Национальный домен верхнего уровня]]
+[[sr:Списак највиших Интернет домена]]
+[[tr:İnternet üst seviye alan adları listesi]]
+[[vec:Lista de Sufisi Internet de Primo Liveło]]
