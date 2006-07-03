@@ -2,11 +2,11 @@ Kadava si ek '''patrinipen le internetoske umalurya (TLD)'''.
 
 {| class="wikitable"
 |- style="background-color: #a0d0ff;"
-!iTLD!!Entity!!Notes
+!iTLD!!Entity!!Xalyarimata
 |-
-| [[.arpa]] || Address and Routing Parameter Area || This is an internet infrastructure tld.
+| [[.arpa]] || Address and Routing Parameter Area || Kadava si ekh tld andi internetoske mashkarstruktura.
 |-
-| [[.root]] || unknown || This is in root for some unknown purpose, with only one entry (a TXT record).
+| [[.root]] || bijanglo || This is in root for some unknown purpose, with only one entry (a TXT record).
 |- style="background-color: #a0d0ff;"
 ![[gTLD]]!!Entity!!Notes
 
