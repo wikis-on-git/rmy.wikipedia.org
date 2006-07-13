@@ -1,0 +1,719 @@
+[[Image:04c093 rotary dial abc.jpg|right|thumb|Ekh purano telefono]]
+Kadava si ekh '''patrinipen le telefonoske kodurya le themenge''' prinjardo katar [[ITU-T]], [[E.164]]. 
+
+==Sa le kodurya==
+{| border="1" celspacing="1"
+|-
+| width="100%" align="center" colspan="10" |<tt>'''+0:''' Bi labyardo</tt>
+|-
+| width="100%" align="center" colspan="10" |<tt>'''+1:''' ([[North American Numbering Plan|NANP]]) [[United States|US]], [[Canada|CA]], [[Anguilla|AI]], [[Antigua and Barbuda|AG]], [[American Samoa|AS]], [[Barbados|BB]], [[Bahamas|BS]], [[British Virgin Islands|VG]], [[U.S. Virgin Islands|VI]], [[Cayman Islands|KY]], [[Bermuda|BM]], [[Grenada|GD]], [[Turks and Caicos Islands|TC]], [[Montserrat|MS]], [[Northern Mariana Islands|MP]], [[Guam|GU]], [[St. Lucia|LC]], [[Dominica|DM]], [[St. Vincent and the Grenadines|VC]], [[Puerto Rico|PR]], [[Dominican Republic|DO]], [[Trinidad and Tobago|TT]], [[St. Kitts and Nevis|KN]], [[Jamaica|JM]]</tt>
+|-
+| width="10%" align="center" |<tt>'''+20:''' [[Egypt|EG]]</tt>
+| width="10%" align="center" |<tt>
+'''+210:''' --<br>
+'''+211:''' --<br>
+'''+212:''' [[Morocco|MA]], ''[[Western Sahara|EH]]''<br>
+'''+213:''' [[Algeria|DZ]]<br>
+'''+214:''' --<br>
+'''+215:''' --<br>
+'''+216:''' [[Tunisia|TN]]<br>
+'''+217:''' --<br>
+'''+218:''' [[Libya|LY]]<br>
+'''+219:''' --</tt>
+| width="10%" align="center" |<tt>
+'''+220:''' [[The Gambia|GM]]<br>
+'''+221:''' [[Senegal|SN]]<br>
+'''+222:''' [[Mauritania|MR]]<br>
+'''+223:''' [[Mali|ML]]<br>
+'''+224:''' [[Guinea|GN]]<br>
+'''+225:''' [[Côte d'Ivoire|CI]]<br>
+'''+226:''' [[Burkina Faso|BF]]<br>
+'''+227:''' [[Niger|NE]]<br>
+'''+228:''' [[Togo|TG]]<br>
+'''+229:''' [[Benin|BJ]]</tt>
+| width="10%" align="center" |<tt>
+'''+230:''' [[Mauritius|MU]]<br>
+'''+231:''' [[Liberia|LR]]<br>
+'''+232:''' [[Sierra Leone|SL]]<br>
+'''+233:''' [[Ghana|GH]]<br>
+'''+234:''' [[Nigeria|NG]]<br>
+'''+235:''' [[Chad|TD]]<br>
+'''+236:''' [[Central African Republic|CF]]<br>
+'''+237:''' [[Cameroon|CM]]<br>
+'''+238:''' [[Cape Verde|CV]]<br>
+'''+239:''' [[São Tomé and Príncipe|ST]]</tt>
+| width="10%" align="center" |<tt>
+'''+240:''' [[Equatorial Guinea|GQ]]<br>
+'''+241:''' [[Gabon|GA]]<br>
+'''+242:''' [[Republic of Congo|CG]]<br>
+'''+243:''' [[Democratic Republic of Congo|CD]]<br>
+'''+244:''' [[Angola|AO]]<br>
+'''+245:''' [[Guinea-Bissau|GW]]<br>
+'''+246:''' [[British Indian Ocean Territory|IO]]<br>
+'''+247:''' [[Ascension Island|AC]]<br>
+'''+248:''' [[Seychelles|SC]]<br>
+'''+249:''' [[Sudan|SD]]</tt>
+| width="10%" align="center" |<tt>
+'''+250:''' [[Rwanda|RW]]<br>
+'''+251:''' [[Ethiopia|ET]]<br>
+'''+252:''' [[Somalia|SO]]<br>
+'''+253:''' [[Djibouti|DJ]]<br>
+'''+254:''' [[Kenya|KE]]<br>
+'''+255:''' [[Tanzania|TZ]]<br>
+'''+256:''' [[Uganda|UG]]<br>
+'''+257:''' [[Burundi|BI]]<br>
+'''+258:''' [[Mozambique|MZ]]<br>
+'''+259:''' --</tt>
+| width="10%" align="center" |<tt>
+'''+260:''' [[Zambia|ZM]]<br>
+'''+261:''' [[Madagascar|MG]]<br>
+'''+262:''' [[Réunion|RE]]<br>
+'''+263:''' [[Zimbabwe|ZW]]<br>
+'''+264:''' [[Namibia|NA]]<br>
+'''+265:''' [[Malawi|MW]]<br>
+'''+266:''' [[Lesotho|LS]]<br>
+'''+267:''' [[Botswana|BW]]<br>
+'''+268:''' [[Swaziland|SZ]]<br>
+'''+269:''' [[Comoros|KM]]</tt>
+| width="10%" align="center" |<tt>'''+27:''' [[South Africa|ZA]]</tt>
+| width="10%" align="center" |<tt>'''+28:''' Not used</tt>
+| width="10%" align="center" |<tt>
+'''+290:''' [[Saint Helena|SH]]<br>
+'''+291:''' [[Eritrea|ER]]<br>
+'''+292:''' --<br>
+'''+293:''' --<br>
+'''+294:''' --<br>
+'''+295:''' --<br>
+'''+296:''' --<br>
+'''+297:''' [[Aruba|AW]]<br>
+'''+298:''' [[Faroe Islands|FO]]<br>
+'''+299:''' [[Greenland|GL]]</tt>
+|-
+| width="10%" align="center" |<tt>'''+30:''' [[Greece|GR]]</tt>
+| width="10%" align="center" |<tt>'''+31:''' [[Netherlands|NL]]</tt>
+| width="10%" align="center" |<tt>'''+32:''' [[Belgium|BE]]</tt>
+| width="10%" align="center" |<tt>'''+33:''' [[France|FR]]</tt>
+| width="10%" align="center" |<tt>'''+34:''' [[Spain|ES]]</tt>
+| width="10%" align="center" |<tt>
+'''+350:''' [[Gibraltar|GI]]<br>
+'''+351:''' [[Portugal|PT]]<br>
+'''+352:''' [[Luxembourg|LU]]<br>
+'''+353:''' [[Republic of Ireland|IE]]<br>
+'''+354:''' [[Iceland|IS]]<br>
+'''+355:''' [[Albania|AL]]<br>
+'''+356:''' [[Malta|MT]]<br>
+'''+357:''' [[Cyprus|CY]]<br>
+'''+358:''' [[Finland|FI]]<br>
+'''+359:''' [[Bulgaria|BG]]</tt>
+| width="10%" align="center" |<tt>'''+36:''' [[Hungary|HU]]</tt>
+| width="10%" align="center" |<tt>
+'''+370:''' [[Lithuania|LT]]<br>
+'''+371:''' [[Latvia|LV]]<br>
+'''+372:''' [[Estonia|EE]]<br>
+'''+373:''' [[Moldova|MD]]<br>
+'''+374:''' [[Armenia|AM]]<br>
+'''+375:''' [[Belarus|BY]]<br>
+'''+376:''' [[Andorra|AD]]<br>
+'''+377:''' [[Monaco|MC]]<br>
+'''+378:''' [[San Marino|SM]]<br>
+'''+379:''' [[Vatican City|VA]]</tt>
+| width="10%" align="center" |<tt>
+'''+380:''' [[Ukraine|UA]]<br>
+'''+381:''' [[Serbia and Montenegro|CS]]<br>
+'''+382:''' Probably [[Montenegro]]<br>
+'''+383:''' --<br>
+'''+384:''' --<br>
+'''+385:''' [[Croatia|HR]]<br>
+'''+386:''' [[Slovenia|SI]]<br>
+'''+387:''' [[Bosnia and Herzegovina|BA]]<br>
+'''+388:''' [[European Telephony Numbering Space|EU]]<br>
+'''+389:''' [[Republic of Macedonia|MK]]</tt>
+| width="10%" align="center" |<tt>'''+39:''' [[Italy|IT]]</tt>
+|-
+| width="10%" align="center" |<tt>'''+40:''' [[Romania|RO]]</tt>
+| width="10%" align="center" |<tt>'''+41:''' [[Switzerland|CH]]</tt>
+| width="10%" align="center" |<tt>
+'''+420:''' [[Czech Republic|CZ]]<br>
+'''+421:''' [[Slovakia|SK]]<br>
+'''+422:''' --<br>
+'''+423:''' [[Liechtenstein|LI]]<br>
+'''+424:''' --<br>
+'''+425:''' --<br>
+'''+426:''' --<br>
+'''+427:''' --<br>
+'''+428:''' --<br>
+'''+429:''' --</tt>
+| width="10%" align="center" |<tt>'''+43:''' [[Austria|AT]]</tt>
+| width="10%" align="center" |<tt>'''+44:''' [[United Kingdom|UK]]</tt>
+| width="10%" align="center" |<tt>'''+45:''' [[Denmark|DK]]</tt>
+| width="10%" align="center" |<tt>'''+46:''' [[Sweden|SE]]</tt>
+| width="10%" align="center" |<tt>'''+47:''' [[Norway|NO]]</tt>
+| width="10%" align="center" |<tt>'''+48:''' [[Poland|PL]]</tt>
+| width="10%" align="center" |<tt>'''+49:''' [[Germany|DE]]</tt>
+|-
+| width="10%" align="center" |<tt>
+'''+500:''' [[Falkland Islands|FK]]<br>
+'''+501:''' [[Belize|BZ]]<br>
+'''+502:''' [[Guatemala|GT]]<br>
+'''+503:''' [[El Salvador|SV]]<br>
+'''+504:''' [[Honduras|HN]]<br>
+'''+505:''' [[Nicaragua|NI]]<br>
+'''+506:''' [[Costa Rica|CR]]<br>
+'''+507:''' [[Panama|PA]]<br>
+'''+508:''' [[St. Pierre and Miquelon|PM]]<br>
+'''+509:''' [[Haiti|HT]]</tt>
+| width="10%" align="center" |<tt>'''+51:''' [[Peru|PE]]</tt>
+| width="10%" align="center" |<tt>'''+52:''' [[Mexico|MX]]</tt>
+| width="10%" align="center" |<tt>'''+53:''' [[Cuba|CU]]</tt>
+| width="10%" align="center" |<tt>'''+54:''' [[Argentina|AR]]</tt>
+| width="10%" align="center" |<tt>'''+55:''' [[Brazil|BR]]</tt>
+| width="10%" align="center" |<tt>'''+56:''' [[Chile|CL]]</tt>
+| width="10%" align="center" |<tt>'''+57:''' [[Colombia|CO]]</tt>
+| width="10%" align="center" |<tt>'''+58:''' [[Venezuela|VE]]</tt>
+| width="10%" align="center" |<tt>
+'''+590:''' [[Guadeloupe|GP]]<br>
+'''+591:''' [[Bolivia|BO]]<br>
+'''+592:''' [[Guyana|GY]]<br>
+'''+593:''' [[Ecuador|EC]]<br>
+'''+594:''' [[French Guiana|GF]]<br>
+'''+595:''' [[Paraguay|PY]]<br>
+'''+596:''' [[Martinique|MQ]]<br>
+'''+597:''' [[Suriname|SR]]<br>
+'''+598:''' [[Uruguay|UY]]<br>
+'''+599:''' [[Netherlands Antilles|AN]]</tt>
+|-
+| width="10%" align="center" |<tt>'''+60:''' [[Malaysia|MY]]</tt>
+| width="10%" align="center" |<tt>'''+61:''' [[Australia|AU]]</tt>
+| width="10%" align="center" |<tt>'''+62:''' [[Indonesia|ID]]</tt>
+| width="10%" align="center" |<tt>'''+63:''' [[Philippines|PH]]</tt>
+| width="10%" align="center" |<tt>'''+64:''' [[New Zealand|NZ]]</tt>
+| width="10%" align="center" |<tt>'''+65:''' [[Singapore|SG]]</tt>
+| width="10%" align="center" |<tt>'''+66:''' [[Thailand|TH]]</tt>
+| width="10%" align="center" |<tt>
+'''+670:''' [[Timor-Leste|TL]]<br>
+'''+671:''' --<br>
+'''+672:''' [[Antarctica|AQ]]<br>
+'''+673:''' [[Brunei Darussalam|BN]]<br>
+'''+674:''' [[Nauru|NR]]<br>
+'''+675:''' [[Papua New Guinea|PG]]<br>
+'''+676:''' [[Tonga|TO]]<br>
+'''+677:''' [[Solomon Islands|SB]]<br>
+'''+678:''' [[Vanuatu|VU]]<br>
+'''+679:''' [[Fiji|FJ]]</tt>
+| width="10%" align="center" |<tt>
+'''+680:''' [[Palau|PW]]<br>
+'''+681:''' [[Wallis and Futuna|WF]]<br>
+'''+682:''' [[Cook Islands|CK]]<br>
+'''+683:''' [[Niue|NU]]<br>
+'''+684:''' --<br>
+'''+685:''' [[Samoa|WS]]<br>
+'''+686:''' [[Kiribati|KI]]<br>
+'''+687:''' [[New Caledonia|NC]]<br>
+'''+688:''' [[Tuvalu|TV]]<br>
+'''+689:''' [[French Polynesia|PF]]</tt>
+| width="10%" align="center" |<tt>
+'''+690:''' [[Tokelau|TK]]<br>
+'''+691:''' [[Federated States of Micronesia|FM]]<br>
+'''+692:''' [[Marshall Islands|MH]]<br>
+'''+693:''' --<br>
+'''+694:''' --<br>
+'''+695:''' --<br>
+'''+696:''' --<br>
+'''+697:''' --<br>
+'''+698:''' --<br>
+'''+699:''' --</tt>
+|-
+| width="100%" align="center" colspan="10" |<tt>'''+7:''' [[Russia|RU]], [[Kazakhstan|KZ]]</tt>
+|-
+| width="10%" align="center" |<tt>
+'''+800:''' [[Universal international freephone number|XT]]<br>
+'''+801:''' --<br>
+'''+802:''' --<br>
+'''+803:''' --<br>
+'''+804:''' --<br>
+'''+805:''' --<br>
+'''+806:''' --<br>
+'''+807:''' --<br>
+'''+808:''' [[Shared Cost Service|XS]]<br>
+'''+809:''' --</tt>
+| width="10%" align="center" |<tt>'''+81:''' [[Japan|JP]]</tt>
+| width="10%" align="center" |<tt>'''+82:''' [[South Korea|KR]]</tt>
+| width="10%" align="center" |<tt>'''+83:''' Not used</tt>
+| width="10%" align="center" |<tt>'''+84:''' [[Vietnam|VN]]</tt>
+| width="10%" align="center" |<tt>
+'''+850:''' [[North Korea|KP]]<br>
+'''+851:''' --<br>
+'''+852:''' [[Hong Kong|HK]]<br>
+'''+853:''' [[Macau|MO]]<br>
+'''+854:''' --<br>
+'''+855:''' [[Cambodia|KH]]<br>
+'''+856:''' [[Laos|LA]]<br>
+'''+857:''' --<br>
+'''+858:''' --<br>
+'''+859:''' --</tt>
+| width="10%" align="center" |<tt>'''+86:''' [[People's Republic of China|CN]]</tt>
+| width="10%" align="center" |<tt>
+'''+870:''' [[Inmarsat|XN]]<br>
+'''+871:''' [[Inmarsat|XE]]<br>
+'''+872:''' [[Inmarsat|XF]]<br>
+'''+873:''' [[Inmarsat|XI]]<br>
+'''+874:''' [[Inmarsat|XW]]<br>
+'''+875:''' --<br>
+'''+876:''' --<br>
+'''+877:''' --<br>
+'''+878:''' [[Universal Personal Telecommunications|XP]]<br>
+'''+879:''' --</tt>
+| width="10%" align="center" |<tt>
+'''+880:''' [[Bangladesh|BD]]<br>
+'''+881:''' [[Global Mobile Satellite System|XG]]<br>
+'''+882:''' [[International Networks (country code)|XV]]<br>
+'''+883:''' --<br>
+'''+884:''' --<br>
+'''+885:''' --<br>
+'''+886:''' [[Republic of China|TW]]<br>
+'''+887:''' --<br>
+'''+888:''' --<br>
+'''+889:''' --</tt>
+| width="10%" align="center" |<tt>'''+89:''' Not used</tt>
+|-
+| width="10%" align="center" |<tt>'''+90:''' [[Turkey|TR]]</tt>
+| width="10%" align="center" |<tt>'''+91:''' [[India|IN]]</tt>
+| width="10%" align="center" |<tt>'''+92:''' [[Pakistan|PK]]</tt>
+| width="10%" align="center" |<tt>'''+93:''' [[Afghanistan|AF]]</tt>
+| width="10%" align="center" |<tt>'''+94:''' [[Sri Lanka|LK]]</tt>
+| width="10%" align="center" |<tt>'''+95:''' [[Myanmar|MM]]</tt>
+| width="10%" align="center" |<tt>
+'''+960:''' [[Maldives|MV]]<br>
+'''+961:''' [[Lebanon|LB]]<br>
+'''+962:''' [[Jordan|JO]]<br>
+'''+963:''' [[Syria|SY]]<br>
+'''+964:''' [[Iraq|IQ]]<br>
+'''+965:''' [[Kuwait|KW]]<br>
+'''+966:''' [[Saudi Arabia|SA]]<br>
+'''+967:''' [[Yemen|YE]]<br>
+'''+968:''' [[Oman|OM]]<br>
+'''+969:''' --</tt>
+| width="10%" align="center" |<tt>
+'''+970:''' [[Palestinian Authority|PS]]<br>
+'''+971:''' [[United Arab Emirates|AE]]<br>
+'''+972:''' [[Israel|IL]]<br>
+'''+973:''' [[Bahrain|BH]]<br>
+'''+974:''' [[Qatar|QA]]<br>
+'''+975:''' [[Bhutan|BT]]<br>
+'''+976:''' [[Mongolia|MN]]<br>
+'''+977:''' [[Nepal|NP]]<br>
+'''+978:''' --<br>
+'''+979:''' [[International premium rate service|XR]]</tt>
+| width="10%" align="center" |<tt>'''+98:''' [[Iran|IR]]</tt>
+| width="10%" align="center" |<tt>
+'''+990:''' --<br>
+'''+991:''' [[ITPCS|XC]]<br>
+'''+992:''' [[Tajikistan|TJ]]<br>
+'''+993:''' [[Turkmenistan|TM]]<br>
+'''+994:''' [[Azerbaidzhan|AZ]]<br>
+'''+995:''' [[Georgia (country)|GE]]<br>
+'''+996:''' [[Kyrgyzstan|KG]]<br>
+'''+997:''' --<br>
+'''+998:''' [[Uzbekistan|UZ]]<br>
+'''+999:''' [[Telecommunications for Disaster Relief|XD]]</tt>
+|}
+
+==In depth==
+===Zone 1 &ndash; North American Numbering Plan Area ===
+Areas within [[North American Numbering Plan|NANPA]] (North American Numbering Plan Area) have been assigned area codes as if they were all areas within one country.
+The codes below in format +1-XXX represent that area code within the +1 NANPA--Not a separate country code. For example, the country code for Guam is +1 followed by the area code 671--not +671.
+
+*+1   [[United States|United States of America]]
+**Including U.S. territories:
+***+1-340   [[U.S. Virgin Islands]]    
+***+1-671   [[Guam]] 
+***+1-670   [[Northern Mariana Islands]] 
+***+1-684   [[American Samoa]] 
+***+1-787 and +1-939 [[Puerto Rico]]
+*+1  [[Canada]] (area code details can be found at [http://www.cnac.ca/co_codes/co_code_status_map.htm cnac.ca])
+*+1-441   [[Bermuda]] 
+*Many, but not all, [[Caribbean nation]]s, with area codes:     
+**+1-264   [[Anguilla]] 
+**+1-268   [[Antigua and Barbuda]] 
+**+1-242   [[Bahamas]] 
+**+1-246   [[Barbados]] 
+**+1-284   [[British Virgin Islands]] 
+**+1-345   [[Cayman Islands]] 
+**+1-767   [[Dominica]] 
+**+1-809 and +1-829 [[Dominican Republic]] 
+**+1-473   [[Grenada]] 
+**+1-876   [[Jamaica]] 
+**+1-664   [[Montserrat]] 
+**+1-869   [[Saint Kitts and Nevis]] 
+**+1-758   [[Saint Lucia]] 
+**+1-784   [[Saint Vincent and the Grenadines]] 
+**+1-868   [[Trinidad and Tobago]] 
+**+1-649   [[Turks and Caicos Islands]] 
+
+:''For more information please see [http://www.nanpa.com/ nanpa.com]''
+
+=== Zone 2 &ndash; Most of [[Africa]] ===
+*20 &ndash; [[Egypt]]
+*210 &ndash; bidino
+*211 &ndash; bidino
+*212 &ndash; [[Morocco]]
+*213 &ndash; [[Algeria]]
+*214 &ndash; bidino
+*215 &ndash; bidino
+*216 &ndash; [[Tunisia]]
+*217 &ndash; bidino
+*218 &ndash; [[Libya]]
+*219 &ndash; bidino
+*220 &ndash; [[The Gambia]]
+*221 &ndash; [[Senegal]]
+
+*222 &ndash; [[Mauritania]]
+*223 &ndash; [[Mali]]
+*224 &ndash; [[Guinea]]
+*225 &ndash; [[Côte d'Ivoire|Côte d'Ivoire (Ivory Coast)]]
+*226 &ndash; [[Burkina Faso]]
+*227 &ndash; [[Niger]]
+*228 &ndash; [[Togo]]
+*229 &ndash; [[Benin]]
+*230 &ndash; [[Mauritius]]
+*231 &ndash; [[Liberia]]
+*232 &ndash; [[Sierra Leone]]
+*233 &ndash; [[Ghana]]
+*234 &ndash; [[Nigeria]]
+*235 &ndash; [[Chad]]
+*236 &ndash; [[Central African Republic]]
+*237 &ndash; [[Cameroon]]
+*238 &ndash; [[Cape Verde]]
+*239 &ndash; [[São Tomé and Príncipe]]
+*240 &ndash; [[Equatorial Guinea]]
+*241 &ndash; [[Gabon]]
+*242 &ndash; [[Republic of the Congo]] (Brazzaville)
+*243 &ndash; [[Democratic Republic of the Congo]] (Kinshasa, formerly known as [[Zaire]])
+*244 &ndash; [[Angola]]
+*245 &ndash; [[Guinea-Bissau]]
+*246 &ndash; [[Diego Garcia]]
+*247 &ndash; [[Ascension Island]]
+*248 &ndash; [[Seychelles]]
+*249 &ndash; [[Sudan]]
+*250 &ndash; [[Rwanda]]
+*251 &ndash; [[Ethiopia]]
+*252 &ndash; [[Somalia]] (also used in [[Somaliland]])
+*253 &ndash; [[Djibouti]]
+*254 &ndash; [[Kenya]]
+*255 &ndash; [[Tanzania]]
+*256 &ndash; [[Uganda]]
+*257 &ndash; [[Burundi]]
+*258 &ndash; [[Mozambique]]
+*259 &ndash; bidino, was intended for [[Zanzibar]] but never implemented - see 255 Tanzania
+*260 &ndash; [[Zambia]]
+*261 &ndash; [[Madagascar]]
+*262 &ndash; [[Réunion]]
+*263 &ndash; [[Zimbabwe]]
+*264 &ndash; [[Namibia]]
+*265 &ndash; [[Malawi]]
+*266 &ndash; [[Lesotho]]
+*267 &ndash; [[Botswana]]
+*268 &ndash; [[Swaziland]]
+*269 &ndash; [[Comoros]] and [[Mayotte]]
+*27  &ndash; [[South Africa]]
+*28x &ndash; bidino
+*290 &ndash; [[Saint Helena]]
+*291 &ndash; [[Eritrea]]
+*292 &ndash; bidino
+*293 &ndash; bidino
+*294 &ndash; bidino
+*295 &ndash; discontinued (was assigned to [[San Marino]], see +378)
+*296 &ndash; bidino
+*297 &ndash; [[Aruba]]
+*298 &ndash; [[Faroe Islands]]
+*299 &ndash; [[Greenland]]
+
+=== Zone 3 &ndash; [[Europe]] ===
+Originally larger countries  (e.g France) were assigned two digit codes (to compensate for their usually longer domestic numbers) and small countries (e.g. Iceland) were assigned three digit codes however since the 1980's all new assignments have been three digit regardless of countries size
+
+*3  &ndash; (proposed in [[1996]] as the [[European Union]] country code [http://europa.eu/en/record/green/gp9611/])
+
+*30 &ndash; [[Greece]]
+*31 &ndash; [[The Netherlands]]
+*32 &ndash; [[Belgium]]
+*33 &ndash; [[France]]
+*34 &ndash; [[Spain]]
+*350 &ndash; [[Gibraltar]]
+*351 &ndash; [[Portugal]]
+*352 &ndash; [[Luxembourg]]
+*353 &ndash; [[Republic of Ireland]] 
+*354 &ndash; [[Iceland]]
+*355 &ndash; [[Albania]] 
+*356 &ndash; [[Malta]]
+*357 &ndash; [[Cyprus]]; ''for the [[TRNC]] (Northern Cyprus), the country code is 90 392'' 
+*358 &ndash; [[Finland]]
+*359 &ndash; [[Bulgaria]]
+*36 &ndash; [[Hungary]] 
+*37 &ndash; discontinued (was assigned to the [[East Germany|GDR]], area now covered by [[Germany]]'s country code 49) 
+*370 &ndash; [[Lithuania]] 
+*371 &ndash; [[Latvia]] 
+*372 &ndash; [[Estonia]]
+*373 &ndash; [[Republic of Moldova|Moldova]]
+** 373 533 &ndash; [[Transnistria]] (biprinjardo)
+*374 &ndash; [[Armenia]]
+**374 97 &ndash; [[Nagorno-Karabakh]] (biprinjardo)
+*375 &ndash; [[Belarus]] 
+*376 &ndash; [[Andorra]]
+*377 &ndash; [[Monaco]]
+*378 &ndash; [[San Marino]]
+*379 &ndash; assigned to [[Vatican City]] but 39 is used.
+*38 &ndash; discontinued (was assigned to [[Yugoslavia]] before break-up)
+*380 &ndash; [[Ukraine]] 
+*381 &ndash; [[Serbia]] and [[Montenegro]]
+*382 &ndash; bidino;'' this code may possibly go to [[Montenegro]]''
+*383 &ndash; bidino 
+*384 &ndash; bidino 
+*385 &ndash; [[Croatia]]
+*386 &ndash; [[Slovenia]]
+*387 &ndash; [[Bosnia and Herzegovina]] 
+*'''388 &ndash; shared code for groups of nations'''
+**'''388 3 &ndash; [[European Telephony Numbering Space]] - Europe-wide services'''
+*389 &ndash; [[Republic of Macedonia]]
+*39 &ndash; [[Italy]] and [[Vatican City]]
+
+=== Zone 4 &ndash; [[Europe]] ===
+*40 &ndash; [[Romania]]
+*41 &ndash; [[Switzerland]] &ndash; see also [[Switzerland telephone numbering plan]]
+*42 &ndash; previously [[Czechoslovakia]]
+*420 &ndash; [[Czech Republic]]
+*421 &ndash; [[Slovakia]]
+*422 &ndash; bidino
+*423 &ndash; [[Liechtenstein]]
+*424 &ndash; bidino
+*425 &ndash; bidino
+*426 &ndash; bidino
+*427 &ndash; bidino
+*428 &ndash; bidino
+*429 &ndash; bidino
+*43 &ndash; [[Austria]]
+*44 &ndash; [[United Kingdom]]
+*45 &ndash; [[Denmark]]
+*46 &ndash; [[Sweden]]
+*47 &ndash; [[Norway]]
+*48 &ndash; [[Poland]]
+*49 &ndash; [[Germany]]
+
+=== Zone 5 &ndash; [[Mexico]], [[Central America|Central]] and [[South America]], [[West Indies]] ===
+*500 &ndash; [[Falkland Islands]]
+*501 &ndash; [[Belize]]
+*502 &ndash; [[Guatemala]]
+*503 &ndash; [[El Salvador]]
+*504 &ndash; [[Honduras]]
+*505 &ndash; [[Nicaragua]]
+*506 &ndash; [[Costa Rica]]
+*507 &ndash; [[Panama]]
+*508 &ndash; [[Saint-Pierre and Miquelon]] - Located outside this zone, near Newfoundland, Canada
+*509 &ndash; [[Haiti]] 
+*51 &ndash; [[Peru]]
+*52 &ndash; [[Mexico]]
+*53 &ndash; [[Cuba]]
+*54 &ndash; [[Argentina]]
+*55 &ndash; [[Brazil]]
+*56 &ndash; [[Chile]]
+*57 &ndash; [[Colombia]]
+*58 &ndash; [[Venezuela]]
+*590 &ndash; [[Guadeloupe]]
+*591 &ndash; [[Bolivia]]
+*592 &ndash; [[Guyana]]
+*593 &ndash; [[Ecuador]]
+*594 &ndash; [[French Guiana]]
+*595 &ndash; [[Paraguay]]
+*596 &ndash; [[Martinique]]
+*597 &ndash; [[Suriname]]
+*598 &ndash; [[Uruguay]] 
+*599 &ndash; [[Netherlands Antilles]]
+
+=== Zone 6 &ndash; South Pacific and [[Oceania]] ===
+*60 &ndash; [[Malaysia]] 
+*61 &ndash; [[Australia]] including external territories of [[Christmas Island]] and [[Cocos Islands]]
+*62 &ndash; [[Indonesia]]
+*63 &ndash; [[Philippines]]
+*64 &ndash; [[New Zealand]]
+*65 &ndash; [[Singapore]]
+*66 &ndash; [[Thailand]]
+*670 &ndash; [[East Timor]] - used to be Northern Mariana Islands which is now included in [[NANPA]] as code +1-670 (See Zone 1, above)
+*671 &ndash; used to be [[Guam]] - Now included in [[NANPA]] as code +1-671 (See Zone 1, above)
+*672 &ndash; Australian external territories other than Christmas, Cocos Islands, such as [[Australian Antarctic Territory]], [[Norfolk Island]] 
+*673 &ndash; [[Brunei|Brunei Darussalam]]
+*674 &ndash; [[Nauru]]
+*675 &ndash; [[Papua New Guinea]]
+*676 &ndash; [[Tonga]]
+*677 &ndash; [[Solomon Islands]]
+*678 &ndash; [[Vanuatu]]
+*679 &ndash; [[Fiji]]
+*680 &ndash; [[Palau]]
+*681 &ndash; [[Wallis and Futuna]]
+*682 &ndash; [[Cook Islands]]
+*683 &ndash; [[Niue|Niue Island]]
+*684 &ndash; used to be [[American Samoa]] - Now included in [[NANPA]] as code +1-684 (See Zone 1, above)
+*685 &ndash; [[Samoa]]
+*686 &ndash; [[Kiribati]] ([[Gilbert Islands]]) 
+*687 &ndash; [[New Caledonia]]
+*688 &ndash; [[Tuvalu]] (Ellice Islands)
+*689 &ndash; [[French Polynesia]] 
+*690 &ndash; [[Tokelau]]
+*691 &ndash; [[Federated States of Micronesia]]
+*692 &ndash; [[Marshall Islands]]
+*693 &ndash; bidino 
+*694 &ndash; bidino 
+*695 &ndash; bidino 
+*696 &ndash; bidino 
+*697 &ndash; bidino 
+*698 &ndash; bidino 
+*699 &ndash; bidino
+
+=== Zone 7 &ndash; Russia and its vicinity (former [[Soviet Union]]) ===
+*7 &ndash; [[Russia]], [[Kazakhstan]].
+
+=== Zone 8 &ndash; [[East Asia]] and Special Services ===
+*'''800 &ndash; International Freephone ([[UIFN]])'''
+*801 &ndash; bidino 
+*802 &ndash; bidino 
+*803 &ndash; bidino 
+*804 &ndash; bidino 
+*805 &ndash; bidino 
+*806 &ndash; bidino 
+*807 &ndash; bidino
+*'''808 &ndash; reserved for [[Shared Cost Service]]s'''
+*809 &ndash; bidino
+*81 &ndash; [[Japan]]
+*82 &ndash; [[South Korea]] 
+*83x &ndash; bidino 
+*84 &ndash; [[Vietnam]]
+*850 &ndash; [[North Korea]]
+*851 &ndash; bidino 
+*852 &ndash; [[Hong Kong]] 
+*853 &ndash; [[Macau]] 
+*854 &ndash; bidino 
+*855 &ndash; [[Cambodia]]
+*856 &ndash; [[Laos]] 
+*857 &ndash; bidino 
+*858 &ndash; bidino 
+*859 &ndash; bidino 
+*86 &ndash; [[People's Republic of China]] ([[mainland China|mainland]] only)
+*'''870 &ndash; [[Inmarsat]] "SNAC" service '''
+*'''871 &ndash; [[Inmarsat]] (Atlantic East) '''
+*'''872 &ndash; [[Inmarsat]] (Pacific) '''
+*'''873 &ndash; [[Inmarsat]] (Indian) '''
+*'''874 &ndash; [[Inmarsat]] (Atlantic West) '''
+*875 &ndash; reserved for Maritime Mobile service
+*876 &ndash; reserved for Maritime Mobile service
+*877 &ndash; reserved for Maritime Mobile service
+*'''878 &ndash; [[Universal Personal Telecommunications]] services''' 
+*879 &ndash; reserved for national non-commercial purposes
+*880 &ndash; [[Bangladesh]] - [[Bangladesh Calling SubCodes|SubCodes]]
+*'''881 &ndash; Mobile Satellite System '''
+*'''882 &ndash; International Networks '''
+*883 &ndash; bidino 
+*884 &ndash; bidino 
+*885 &ndash; bidino 
+*886 &ndash; [[Republic of China]] (Taiwan) - ''This code is not officially assigned as of 1 Jan 2006, listed by ITU as 'reserved'.'' 
+*887 &ndash; bidino 
+*888 &ndash; reserved for future, unknown type of global service
+*889 &ndash; bidino 
+*89x &ndash; bidino
+
+=== Zone 9 &ndash; [[Southwest Asia|West]], [[South Asia|South]] and [[Central Asia]], [[Middle East]] ===
+*90 &ndash; [[Turkey]] 
+**90 392 &ndash; [[Turkish Republic of Northern Cyprus]] (biprinjardo)
+*91 &ndash; [[India]] 
+*92 &ndash; [[Pakistan]]
+*93 &ndash; [[Afghanistan]]
+*94 &ndash; [[Sri Lanka]] 
+*95 &ndash; [[Myanmar|Burma (Myanmar)]]
+*960 &ndash; [[Maldives]]
+*961 &ndash; [[Lebanon]]
+*962 &ndash; [[Jordan]]
+*963 &ndash; [[Syria]]
+*964 &ndash; [[Iraq]]
+*965 &ndash; [[Kuwait]]
+*966 &ndash; [[Saudi Arabia]]
+*967 &ndash; [[Yemen]]
+*968 &ndash; [[Oman]]
+*969 &ndash; used to be [[People's Democratic Republic of Yemen]] - now unified under 967 [[Yemen]] (formerly the Yemen Arab Republic)
+*970 &ndash; [[Palestinian Authority]] - ''This code is not officially assigned as of 1 Jan 2006, listed by ITU as 'reserved'.'' 
+*971 &ndash; [[United Arab Emirates]]
+*972 &ndash; [[Israel]]
+*973 &ndash; [[Bahrain]]
+*974 &ndash; [[Qatar]]
+*975 &ndash; [[Bhutan]]
+*976 &ndash; [[Mongolia]]
+*977 &ndash; [[Nepal]]
+*978 &ndash; bidino - originally assigned to Dubai, now covered under 971
+*'''979 &ndash; [[International Premium Rate Service]]''' - originally assigned to Abu Dhabi, now covered under 971
+*98 &ndash; [[Iran]] 
+*990 &ndash; bidino 
+*'''991 &ndash; International Telecommunications Public Correspondence Service trial (ITPCS)''' 
+*992 &ndash; [[Tajikistan]]
+*993 &ndash; [[Turkmenistan]] 
+*994 &ndash; [[Azerbaijan]]
+*995 &ndash; [[Georgia (country)|Georgia]] 
+*996 &ndash; [[Kyrgyzstan]]
+*997 &ndash; bidino
+*998 &ndash; [[Uzbekistan]]
+*999 &ndash; reserved for potential disaster relief service
+
+=== Umal 0 &ndash; bilabyardo ===
+
+=== Umalurya bi telefonoske kodurenge (1xx kai 9xx) ===
+
+*[[Ovestutni Sahara]] (thanimata telal o Marokano xulyaripen labyaren 212)
+*[[Antarktika]]--McMurdo Base, Amundsen-Scott Base, aver (kai McMurdo nai direkto telefonosko phandipen)
+*[[Dvip Pitcairn]] (numa satelitoske telefonurya labyarde)
+*[[Tristan da Cunha]] (shai +290, ama nai nai direkto telefonosko phandipen kai ekh thanesko switch)
+*[[Dvipa Kerguelen]]
+
+==puranipen==
+CCITT, the predecessor of the [[ITU Telecommunication Standardization Sector]] (ITU-T), developed the first formal list of telephone country codes. This list was included in the ''[[1964]] CCITT Blue Book'', among other international telecommunication recommendations, which would eventually become [[ITU Telecommunication Standardization Sector|ITU-T]] recommendation [[E.164]].
+
+An earlier system of country codes for European use was mentioned in the ''[[1960]] CCITT Red Book''. Some of these country codes were retained in the CCITT country code assignments and remain in effect (e.g. France +33, United Kingdom +44).
+
+For further details on country code history and development, see [http://www.wtng.info/wtng-hst.html ''History of Country Codes''] ([http://www.wtng.info WTNG]).
+
+==Dikh vi==
+
+==Avrutne phandimata==
+* [http://www.countrycallingcodes.com/ Website le telefonoske kodurya]
+* [http://www.izoxzone.com/product/app/cc/ Themenge kodurya thai aver janglimata pe buteder sar 250 thema]
+
+[[an:Lista de codigos telefonicos]]
+[[ar:رمز هاتف دولي]]
+[[ca:Llista de codis telefònics]]
+[[cs:Seznam mezinárodních směrových čísel]]
+[[cy:Rhestr côdau galw gwledydd]]
+[[da:International telefonkode]]
+[[de:Ländervorwahlliste sortiert nach Nummern]]
+[[el:Κατάλογος κωδικών κλήσεων χωρών]]
+[[en:List of country calling codes]]
+[[es:Lista de códigos telefónicos]]
+[[fo:Telefon landakotur]]
+[[fr:Liste des indicatifs téléphoniques internationaux par indicatif]]
+[[ga:Liosta glaochód idirnáisiúnta]]
+[[gl:Lista de códigos telefónicos internacionais]]
+[[ko:국제전화 나라번호]]
+[[is:Listi yfir landsnúmer]]
+[[it:Prefissi telefonici internazionali]]
+[[he:רשימת קידומות טלפון בחיוג בינלאומי]]
+[[lt:Šalių telefonų kodai]]
+[[lv:Starptautisko tālsarunu kodu saraksts]]
+[[mt:Lista ta' kodiċi telefoniċi]]
+[[nl:Landnummer]]
+[[nds:Internatschonale Telefoonvörwahl]]
+[[ja:国際電話番号の一覧]]
+[[no:Landsnumre for telefon]]
+[[os:Бæстæты телефонон префиксты номхыгъд]]
+[[pl:Kod telefoniczny]]
+[[pt:Lista de códigos telefónicos]]
+[[ru:Список телефонных префиксов стран]]
+[[sl:Nacionalna klicna koda]]
+[[sr:Листа државних позивних бројева]]
+[[sv:Landsnummer]]
+[[th:รหัสโทรศัพท์ระหว่างประเทศ]]
+[[tl:Tala ng mga kodigong pantelepono ng mga bansa]]
+[[wa:Djivêye des indicatifs telefonikes eternåcionås]]
+[[zh:国际电话区号列表]]
