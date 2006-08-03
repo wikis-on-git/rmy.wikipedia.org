@@ -1,23 +1,155 @@
 [[देवनागरी]]
 
-'''Devǎnagǎrī''' si yekh [[lekhipen]] [[abugida]] labyardo te lekhavel, korkoro vai le avere lekhimatenca, ćhiba andar o [[Indikano Subkontinento]] sar [[sanskritikani]], [[hindi]], [[marathi]], [[kashmiri]], [[sindhi]], [[romani]], [[bihari]], [[bhili]], [[konkani]], [[bhojpuri]], [[nepali]].
+'''Devǎnagǎrī''' si yekh [[abugida]] [[lekhipen]] labyardo te lekhavel, korkoro vai le avere lekhimatenca, chhiba andar o [[Indikano Subkontinento]] sar [[sanskritikani]], [[hindi]], [[marathi]], [[kashmiri]], [[sindhi]], [[romani]], [[bihari]], [[bhili]], [[konkani]], [[bhojpuri]], [[nepali]].
 
-I devǎnagǎrī sas kerdini ando 12-to [[shelbersh]] andar o lekhipen [[Siddham]]. Andi sanskritikani, ''nagǎrī'' si i juvlikani forma andar ''nāgara'' (forutno). Si juvlikani andar kodya so pasharel i juvlikani navni ''lipi'' (lekhipen) , thai ''devǎ'' si "devel": ''devǎnagǎrī lipi'' - "forutno lekhipen le devlenge".
+==Nav==
+I devǎnagǎrī sas kerdini ando 12-to [[shelbersh]] andar o lekhipen [[Siddham]]. Pe sanskritikani, ''nagǎrī'' si i juvlikani forma andar ''nāgara'' (forutno). Si juvlikani andar kodya so pasharel i juvlikani navni ''lipi'' (lekhipen) , thai ''devǎ'' si "devel": ''devǎnagǎrī lipi'' - "forutno lekhipen le devlenge".
 
-La devǎnagǎrya si lake 12 ''svǎre'' (vokalurya) thai 34 ''vyǎnjǎne'' (konsonanturya). Ek ''ǎkshǎr'' kerdivel andar zero vai ek vyanjana thai ek vai buteder svǎra.
+==Sar lekhavel pe==
 
-O devǎnagǎrī lekhipen si ek lekhipen abugida andar kodya so sa vyǎnjǎne kana si korkore si len ek svǎr (ǎ). Kana dui vai buteder vyǎnjǎne si ek palal avreste ''ǎ'' perel thai kerdiven ''ligaturya''.
+Pe devǎnagǎri lekhipen si 12 ''svǎra'' (vokalurya) thai 34 ''vyǎnjǎna'' (konsonanturya). 
 
-Kathe si le semnurya andar i devǎnagǎrī. Ando svǎrenge tabelo ki lista le semnurenge si o svǎr bi le vyǎnjǎneske, ando "Svǎr le P-esa" si o svǎr kana si le vyǎnjǎnesa thai si kothe le P-esa sar misalake. Thai mai aven le semnurya ande Unicode thai IPA (''International Phonetic Alphabet'') so korespondisarel le devǎnagǎrenge vakyarimatenge.
+===Vyǎnjǎna===
+O devǎnagǎrī lekhipen si ek ''abugida'' lekhipen andar kodya so sa le vyǎnjǎna kana si korkore si len o svǎr ''ǎ''. Sar misalyake, o grafem "प" si "pǎ". Te avel "p" trebul te labyardyovel o [[viram]] "्" so sikavel ke "ǎ" perel: "प्" si "p". 
 
-<div style="text-align:left">
+O ''viram'' nai labyardo te sikavel ke "ǎ" perel kana dui vai buteder vyǎnjǎna si ek palal avreste, bisvǎrenge mashkar lende. Atunch, le pasharde vyǎnjǎna phanden pen, kerindoi ekh phandipen. Sar misalyake, "k" lekhavdyovel korkoro sar "क्" thai "l" si korkoro "ल्". Ekh palal avreste si "क्ल्". Kathe o "क्" xasardyas i chachi rig. Numa o paluno vyǎnjǎn achhel bichhindo, sar misalyake trin vyǎnjǎna ekh palal avreste: "ख्स्त" si "khst" thai korkore si "ख", "स", "त". Si buteder regule te keren pen le vyǎnjǎnenge phandipena. Acharutnes, kana varekon lekhavel pe compyuter dosta te thol o viram/विराम "्" mashkar lende te keren pen le phandipena automatikanes. Sar misalyake, kerindoi klik "ग" + "्" + "ल" avel "ग्ल".
+
+Tele si le vyǎnjǎna andar o devǎnagǎrī lekhipen. 
+
+{| border="1" cellspacing="0" cellpadding="3"
+|-
+|+ '''Le vyǎnjǎna'''
+|-
+! Grafem   !! Latinikanes !! IPA
+|-
+| style="font-size:14pt;" | &#2325;  ||  kǎ   ||  align=center  | {{IPA|kə}}
+|-
+| style="font-size:14pt;" | &#2326;  ||  khǎ  ||  align=center  | {{IPA|k<sup>h</sup>ə}}
+|-
+| style="font-size:14pt;" | &#2327;  ||  gǎ   ||  align=center  | {{IPA|ɡə}}
+|-
+| style="font-size:14pt;" | &#2328;  ||  ghǎ  || align=center  | {{IPA| ɡ<sup>&#614;</sup>ə}}
+|-
+| style="font-size:14pt;" | &#2329;  ||  ngǎ,&#7749;ǎ  ||  align=center  | {{IPA|&#331;ə}}
+|-
+| style="font-size:14pt;" | &#2330;  ||  chǎ  ||  align=center  | {{IPA|t&#643;ə}}
+|-
+| style="font-size:14pt;" | &#2331;  ||  chhǎ || align=center  | {{IPA| t&#643;<sup>h</sup>ə}}
+|-
+| style="font-size:14pt;" | &#2332;  ||  jǎ   ||  align=center  | {{IPA|d&#658;ə}}
+|-
+| style="font-size:14pt;" | &#2333;  ||  jhǎ  ||  align=center  | {{IPA|d&#658;<sup>&#614;</sup>ə}}
+|-
+| style="font-size:14pt;" | &#2334;  ||  nyǎ, ñǎ ||  align=center  | {{IPA|&#626;ə}}
+|-
+| style="font-size:14pt;" | &#2335;  ||  ttǎ, &#7789;ǎ ||  align=center  | {{IPA|&#648;ə}}
+|-
+| style="font-size:14pt;" | &#2336;  ||  tthǎ, &#7789;hǎ ||  align=center  | {{IPA|&#648;<sup>h</sup>ə}}
+|-
+| style="font-size:14pt;" | &#2337;  ||  ddǎ, &#7693;ǎ ||  align=center  | {{IPA|&#598; / &#637;ə}}
+|-
+| style="font-size:14pt;" | &#2338;  ||  ddhǎ, &#7693;hǎ ||  align=center  | {{IPA|&#598;<sup>&#614;</sup> / &#637;<sup>&#614;</sup>ə}}
+|-
+| style="font-size:14pt;" | &#2339;  ||  nnǎ, &#7751;ǎ ||  align=center  | {{IPA|&#627;ə}}
+|-
+| style="font-size:14pt;" | &#2340;  ||  tǎ  || align=center  | {{IPA| t&#810;ə}}
+|-
+| style="font-size:14pt;" | &#2341;  ||  thǎ  || align=center  | {{IPA| t&#810;<sup>h</sup>ə}}
+|-
+| style="font-size:14pt;" | &#2342;  ||  dǎ   ||  align=center  | {{IPA|d&#810;ə}}
+|-
+| style="font-size:14pt;" | &#2343;  ||  dhǎ ||  align=center  | {{IPA|d&#810;<sup>&#614;</sup>ə}}
+|-
+| style="font-size:14pt;" | &#2344;  ||  nǎ  ||  align=center  | {{IPA|n&#810;ə}}
+|-
+| style="font-size:14pt;" | &#2346;  ||  pǎ  ||  align=center  | {{IPA|pə}}
+|-
+| style="font-size:14pt;" | &#2347;  ||  phǎ ||  align=center  | {{IPA|p<sup>h</sup>ə}}
+|-
+| style="font-size:14pt;" | &#2348;  ||  bǎ ||  align=center  | {{IPA|bə}}
+|-
+| style="font-size:14pt;" | &#2349;  ||  bhǎ  ||  align=center  | {{IPA|b<sup>&#614;</sup>ə}}
+|-
+| style="font-size:14pt;" | &#2350;  ||  mǎ   ||  align=center  | {{IPA|mə}}
+|-
+| style="font-size:14pt;" | &#2351;  ||  yǎ   ||  align=center  | {{IPA|jə}}
+|-
+| style="font-size:14pt;" | &#2352;  ||  rǎ   || align=center  | {{IPA| &#638;ə}}
+|-
+| style="font-size:14pt;" | &#2354;  ||  lǎ   || align=center  | {{IPA| lə}}
+|-
+| style="font-size:14pt;" | &#2355;  ||  llǎ, &#7735;ǎ || align=center  | {{IPA| &#621;ə}}
+|-
+| style="font-size:14pt;" | &#2357;  ||  vǎ   ||  align=center  | {{IPA|və}}
+|-
+| style="font-size:14pt;" | &#2358;  ||  shǎ, &#347;ǎ ||  align=center  | {{IPA|&#597;ə}}
+|-
+| style="font-size:14pt;" | &#2359;  ||  ssǎ, &#7779;ǎ ||  align=center  | {{IPA|&#642;ə}}
+|-
+| style="font-size:14pt;" | &#2360;  ||  sǎ   ||  align=center  | {{IPA|sə}}
+|-
+| style="font-size:14pt;" | &#2361;  ||  hǎ   ||  align=center  | {{IPA|hə}}
+|-
+|}
+
+Kadale si le vyǎnjǎna so sas ko shirdipen. Kana neve [[shunipen]]a labyardyoven pe chhib, neve grafema keren pen andar le purane. O semno "़" (nukta/नुक़ता) thol pes po grafem so shunel pes mai pasharno.
+
+{|class="wikitable"
+|+'''Neve vyǎnjǎna'''
+|-
+!Grafem
+!Latinikanes
+!IPA
+|-align="center"
+|क़
+|q
+|{{IPA|/qə/}}
+|-align="center"
+|फ़
+|f
+|{{IPA|/fə/}}
+|-align="center"
+|ख़
+|x, khh
+|{{IPA|/xə/}}
+|-align="center"
+|ग़
+|{{IPA|/ɣə/}}
+|ghh
+|-align="center"
+|ज़
+|z
+|{{IPA|/zə/}}
+|-align="center"
+|श़
+|zh
+|ʐ
+|ड़
+|<ni ekh>
+|{{IPA|/ɽə/}}
+|-align="center"
+|ढ़
+|<ni ekh>
+|{{IPA|/ɽʱə/}}
+|-
+|}
+
+===Svǎra===
+Sa le svǎren, avryal "ǎ", si len  dui forme: ekh kana si korkoro, ko shirdipen le lavengo vai palal aver svǎr thai aver forma palal ekh vyǎnjǎn. Sar misalyake, "o" korkoro si "ओ" thai palal vyǎnjǎn si "ो", s.m. "पो" = "po". Numa le svǎreske "ǎ", chi trebul te labyarel ni ekh grafema te lekhavel les palal ekh vyǎnjǎn: "प" si "pǎ". Numa
+
+Tele si sa le svǎre: anglunes si i forma kana o svǎr si korkoro thai o duito si i forma palal ekh vyǎnjǎn (kathe, sar misalyake, "प्"-"p"):
+
+
+
+
+{div style="text-align:left">
 {| border="1" cellspacing="0" cellpadding="3" class="wikitable"
 |-
 |+ '''Le svǎra''' 
 |-
-! Semno !! Semno le svǎresko le &lt;p&gt; !! O Unicode nav !! IPA
+! Semno !! Semno le svǎresko palal &lt;p&gt; !! Latinikanes !! IPA
 |-
-| style="font-size:14pt;" | &#2309; || style="font-size:14pt;" | &#2346; <font size=2>(none)
+| style="font-size:14pt;" | &#2309; || style="font-size:14pt;" | &#2346; <font size=2>(ni ekh)
 | a            ||  align=center  | {{IPA|&#601;}}
 |-
 | style="font-size:14pt;" | &#2310; || style="font-size:14pt;" | &#2346;&#2366;
@@ -73,8 +205,14 @@ Kathe si le semnurya andar i devǎnagǎrī. Ando svǎrenge tabelo ki lista le se
 |-
 |}
 
+==Ǎkshǎr==
+Ek ''ǎkshǎr'' si ekh ekhipen grafemengo so kerdivel andar zero vai ek vyǎnjǎna thai ek vai buteder svǎra. Ǎkshǎrenge misala:
+*"आ" - numa ekh svǎr (zero vyǎnjǎna);
+*"ओइ" - buteder svǎra;
+*"सो" - ekh vyǎnjǎn thai ekh svǎr;
+*"काइ" - ekh vyǎnjǎn thai buteder svǎra.
 
-
+==Aver simboluya==
 {| border="1" cellspacing="0" cellpadding="3"
 |-
 |+ '''Aver simbolurya so keren ververimata'''
@@ -82,103 +220,26 @@ Kathe si le semnurya andar i devǎnagǎrī. Ando svǎrenge tabelo ki lista le se
 ! Simbolo le &lt;p&gt;-esa !! Unicode nav !! Labyaripen !! IPA
 |-
 | style="font-size:14pt;" | &#2346;&#2381;
-| virama       || Navyardo ''halant''; ćhinel o svǎr ''ǎ''. || {{IPA|[p]}}
+| virama       || Navyardo vi ''halant''; chhinel o svǎr ''ǎ''. || {{IPA|[p]}}
 |-
 | style="font-size:14pt;" | &#2346;&#2305;
-| candra-bindu  || Nazalisarel o svǎr || {{IPA|[p&#601;&#771;]}}
+| candra-bindu  || Nakhalisarel o svǎr || {{IPA|[p&#601;&#771;]}}
 |-
 | style="font-size:14pt;" | &#2346;&#2306;
-| anusvara     || Nasalisarel o svǎr || {{IPA|[p&#601;&#771;]}}
+| anusvara     || Nakhalisarel o svǎr || {{IPA|[p&#601;&#771;]}}
 |-
 | style="font-size:14pt;" | &#2346;&#2307;
-| visarga      || Del respiracia bishunipnaski palal o svǎr || {{IPA|[p&#601;h]}} / {{IPA|[p&#601;&#601;&#805;]}}
+| visarga      || Del respiraciya bishunipnaski palal o svǎr || {{IPA|[p&#601;h]}} / {{IPA|[p&#601;&#601;&#805;]}}
 |-
 | style="font-size:14pt;" | &#2346;&#2364;
-| nukta        || Labyardo te sikavel shunimata andar i pesikani (sar misalake, ph + nukta = f) ||
+| nukta        || Labyardo te sikavel neve shunimata  (sar misalake, ph + nukta = f) ||
 |-
 | style="font-size:14pt;" | &#2346;&#2365;
 | avagraha     || Labyardo te lunjisarel o svǎr || {{IPA|[p&#601;:]}}
 |-
 |}
 
-Kana chi lekhavel chi ek svǎr atunchi &lt;ǎ&gt; si ando ǎkshǎr. Te sikavel ke nai ni ek svǎr, te labyarel ek ''halant'' (vi navyardo ''virama'').
-
-{| border="1" cellspacing="0" cellpadding="3"
-|-
-|+ '''Le vyǎnjǎne'''
-|-
-! Semno   !! O Unicode nav  !! Latinikanes !! IPA
-|-
-| style="font-size:14pt;" | &#2325;  ||  ka           ||  k              ||  align=center  | {{IPA|k}}
-|-
-| style="font-size:14pt;" | &#2326;  ||  kha          ||  kh             ||  align=center  | {{IPA|k<sup>h</sup>}}
-|-
-| style="font-size:14pt;" | &#2327;  ||  ga           ||  g              ||  align=center  | {{IPA|ɡ}}
-|-
-| style="font-size:14pt;" | &#2328;  ||  gha          ||  gh             || align=center  | {{IPA| ɡ<sup>&#614;</sup>}}
-|-
-| style="font-size:14pt;" | &#2329;  ||  nga          ||  &#7749;        ||  align=center  | {{IPA|&#331;}}
-|-
-| style="font-size:14pt;" | &#2330;  ||  cha          ||  ch             ||  align=center  | {{IPA|t&#643;}}
-|-
-| style="font-size:14pt;" | &#2331;  ||  chha         ||  chh            || align=center  | {{IPA| t&#643;<sup>h</sup>}}
-|-
-| style="font-size:14pt;" | &#2332;  ||  ja           ||  j              ||  align=center  | {{IPA|d&#658;}}
-|-
-| style="font-size:14pt;" | &#2333;  ||  jha          ||  jh             ||  align=center  | {{IPA|d&#658;<sup>&#614;</sup>}}
-|-
-| style="font-size:14pt;" | &#2334;  ||  nya          ||  ñ              ||  align=center  | {{IPA|&#626;}}
-|-
-| style="font-size:14pt;" | &#2335;  ||  tta          ||  &#7789;        ||  align=center  | {{IPA|&#648;}}
-|-
-| style="font-size:14pt;" | &#2336;  ||  ttha         ||  &#7789;h       ||  align=center  | {{IPA|&#648;<sup>h</sup>}}
-|-
-| style="font-size:14pt;" | &#2337;  ||  dda          ||  &#7693;        ||  align=center  | {{IPA|&#598; / &#637;}}
-|-
-| style="font-size:14pt;" | &#2338;  ||  ddha         ||  &#7693;h       ||  align=center  | {{IPA|&#598;<sup>&#614;</sup> / &#637;<sup>&#614;</sup>}}
-|-
-| style="font-size:14pt;" | &#2339;  ||  nna          ||  &#7751;        ||  align=center  | {{IPA|&#627;}}
-|-
-| style="font-size:14pt;" | &#2340;  ||  ta           ||  t              || align=center  | {{IPA| t&#810;}}
-|-
-| style="font-size:14pt;" | &#2341;  ||  tha          ||  th             || align=center  | {{IPA| t&#810;<sup>h</sup>}}
-|-
-| style="font-size:14pt;" | &#2342;  ||  da           ||  d              ||  align=center  | {{IPA|d&#810;}}
-|-
-| style="font-size:14pt;" | &#2343;  ||  dha          ||  dh             ||  align=center  | {{IPA|d&#810;<sup>&#614;</sup>}}
-|-
-| style="font-size:14pt;" | &#2344;  ||  na           ||  n              ||  align=center  | {{IPA|n&#810;}}
-|-
-| style="font-size:14pt;" | &#2346;  ||  pa           ||  p              ||  align=center  | {{IPA|p}}
-|-
-| style="font-size:14pt;" | &#2347;  ||  pha          ||  ph             ||  align=center  | {{IPA|p<sup>h</sup>}}
-|-
-| style="font-size:14pt;" | &#2348;  ||  ba           ||  b              ||  align=center  | {{IPA|b}}
-|-
-| style="font-size:14pt;" | &#2349;  ||  bha          ||  bh             ||  align=center  | {{IPA|b<sup>&#614;</sup>}}
-|-
-| style="font-size:14pt;" | &#2350;  ||  ma           ||  m              ||  align=center  | {{IPA|m}}
-|-
-| style="font-size:14pt;" | &#2351;  ||  ya           ||  y              ||  align=center  | {{IPA|j}}
-|-
-| style="font-size:14pt;" | &#2352;  ||  ra           ||  r              || align=center  | {{IPA| &#638;}}
-|-
-| style="font-size:14pt;" | &#2354;  ||  la           ||  l              || align=center  | {{IPA| l}}
-|-
-| style="font-size:14pt;" | &#2355;  ||  lla          ||  &#7735;        || align=center  | {{IPA| &#621;}}
-|-
-| style="font-size:14pt;" | &#2357;  ||  va           ||  v              ||  align=center  | {{IPA|v}}
-|-
-| style="font-size:14pt;" | &#2358;  ||  sha          ||  &#347;         ||  align=center  | {{IPA|&#597;}}
-|-
-| style="font-size:14pt;" | &#2359;  ||  ssa          ||  &#7779;        ||  align=center  | {{IPA|&#642;}}
-|-
-| style="font-size:14pt;" | &#2360;  ||  sa           ||  s              ||  align=center  | {{IPA|s}}
-|-
-| style="font-size:14pt;" | &#2361;  ||  ha           ||  h              ||  align=center  | {{IPA|h}}
-|-
-|}
-
+==Gina==
 {| border="1" cellspacing="0" cellpadding="3"
 |-
 |+ '''Devanagari gina'''
