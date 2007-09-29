@@ -10,11 +10,11 @@ sherutno foro=[[Moskova]]|
 latd=55 |latm=45 |latNS=N |longd=37 |longm=37 |longEW=E|
 o_bareder_foro=[[Moskova]]|
 prinjarde_ćhiba=[[Rusikani chhib]], aver 30 [[chhib]]a ande varesave kotora themeske|
-guvernamentesko_tipo=Pash-prezidenteski Republika|
+guvernamentesko_tipo= <br />Pash-prezidenteski Republika|
 barideresko_titlo=Prezidento<br />Ekto-Ministro|
 barideresko_anav=[[Vladimir Putin]]<br />[[Viktor Zubkov]]|
 mestipnasko_tipo=Mestipen|
-uzalutne_momenturya=Kerdo<br />[Vakyardo|
+uzalutne_momenturya=Kerdo<br />Vakyardo|
 uzalutne_divesa=862<br />[[12 Shovtonai]] [[1990]]|
 themesko_baripen=17,075,400|
 percent_pani=13%|
@@ -37,8 +37,8 @@ IMD_mashkar_sa_le_themende=65|
 IMD_kategoriya=<font color="#009900">opretele</font>|
 lovo=[[Rusiyaki rubla|Rubla]]|
 lovosko kodo=RUB|
-uov_offset=+2 to +12|
-uov_offset_VUDD=+3 to +13|
+uov_offset= +2 to +12|
+uov_offset_VUDD= +3 to +13|
 anav_tld=[[.ru]] ([[.su]] arakhlo)|
 telefonosko kodo=7|
 xalyarimata=|
