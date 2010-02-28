@@ -254,10 +254,6 @@ Kadava si ekh '''patrinipen le telefonoske kodurya le themenge''' prinjardo kata
 | width="10%" align="center" |<tt>'''+86:''' [[People's Republic of China|CN]]</tt>
 | width="10%" align="center" |<tt>
 '''+870:''' [[Inmarsat|XN]]<br />
-'''+871:''' [[Inmarsat|XE]]<br />
-'''+872:''' [[Inmarsat|XF]]<br />
-'''+873:''' [[Inmarsat|XI]]<br />
-'''+874:''' [[Inmarsat|XW]]<br />
 '''+875:''' --<br />
 '''+876:''' --<br />
 '''+877:''' --<br />
@@ -598,10 +594,6 @@ Originally larger countries (e.g France) were assigned two digit codes (to compe
 * 859 – bidino 
 * 86 – [[People's Republic of China]] ([[mainland China|mainland]] only)
 * '''870 – [[Inmarsat]] "SNAC" service '''
-* '''871 – [[Inmarsat]] (Atlantic East) '''
-* '''872 – [[Inmarsat]] (Pacific) '''
-* '''873 – [[Inmarsat]] (Indian) '''
-* '''874 – [[Inmarsat]] (Atlantic West) '''
 * 875 – reserved for Maritime Mobile service
 * 876 – reserved for Maritime Mobile service
 * 877 – reserved for Maritime Mobile service
@@ -674,7 +666,9 @@ CCITT, the predecessor of the [[ITU Telecommunication Standardization Sector]] (
 
 An earlier system of country codes for European use was mentioned in the ''[[1960]] CCITT Red Book''. Some of these country codes were retained in the CCITT country code assignments and remain in effect (e.g. France +33, United Kingdom +44).
 
-For further details on country code history and development, see [http://www.wtng.info/wtng-hst.html ''History of Country Codes''] ([http://www.wtng.info WTNG]).
+* http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.164D-2009-PDF-E.pdf
+* http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.164C-2010-PDF-E.pdf
+* http://www.wtng.info/
 
 == Dikh vi ==
 
