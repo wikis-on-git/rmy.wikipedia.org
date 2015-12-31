@@ -6,7 +6,7 @@ anav=Turkiya|
 Anav andi themeski chhib=Türkiye Cumhuriyeti |
 Chitro_le_styagosko=Flag of Turkey.svg|
 Chitro_la_stemako=TurkishEmblem.svg|
-themesko Himno=|İstiklâl Marşı|
+themesko_himno=İstiklâl Marşı|
 chitro_map=LocationTurkey.png|
 sherutno foro=[[Enkere]]|
 latd=39|latm=50|latNS=K|longd=32|longm=50|longEW=D|
@@ -28,16 +28,15 @@ ABP_KKZ_bersh=2014|
 ABP_KKZ=$.851,4 milyadenurya|
 ABP_KKZ_mashkar_sa_le_themende=7|
 ABP_KKZ_po_themutno=$22.472|
-IMD_bersh=2003|
-IMD=0.938|
-IMD_mashkar_sa_le_themende=16|
+IMD_bersh=1985|
+IMD=0.759|
 IMD_kategoriya=<font color="#009900">baro</font>|
-lovo=[[Evro]]|
-lovosko kodo=EUR|
+lovo=[[Turki Lira]]|
+lovosko kodo=TRY|
 uov_offset=+1|
 uov_offset_VUDD=+2|
-anav_tld=.de|
-telefonosko kodo=49|
+anav_tld=.tr|
+telefonosko kodo=90|
 xalyarimata=|
 }}
 
