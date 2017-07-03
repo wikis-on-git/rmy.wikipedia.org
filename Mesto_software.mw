@@ -1,7 +1,7 @@
 '''O Mesto Software''' buchol kadya anda kodya so si o lesko mestipen le yekspresisaripenaste. Vov del mestipen le manushenge te labyaren les, te Sopisaren, roden, editisaren tay latcharen les. Si les shtar forme le mestipenaste te labyarel les:
 
 # O mestipen te labyarel o programo, ando vareso agor (o mestipen 0).
-# O mestipen te rodel sar jal o programo tay te adaptisarel les le pumenge mangimata (o mestipem 1). O shayutnipen te dikhel o ''source code'' si yekh palekondisiya.
+# O mestipen te rodel sar jal o programo tay te adaptisarel les le pumenge mangimata (o mestipem 1). O shayutnipen te dikhel o ''source code'' si yek palekondisiya.
 # O mestipen te kerel miyazutnimata te jutisarel le kolavrenge (o mestipen 2).
 # O mestipen te latcharel o programo tay te mekhel le kolaver te dikhel le latcharimata (o mestipen 3). O shayutnipen te dikhel o ''source code'' si yek palekondisiya.
 
