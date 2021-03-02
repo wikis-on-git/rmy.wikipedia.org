@@ -3,7 +3,7 @@
 {|  style="width:100%; margin-bottom:2px; vertical-align:top; font-size:95%; background:transparent;"
 |-
 | style="height:3em;padding-left:50px" |[[File:Flag of the Romani people.svg|border|75px|left|link=Romaňi flagos]]<span style="font-size:185%;">[[Vikipidiya:Mishto avilyan|Mishto avilyan]] ki [[Vikipidiya]],</span><br><span>''i mesti enchiklopidiya savya vi tu shai te lekhaves (xramosares) la.''</span>
-|style="padding:1em;text-align:right;line-height:1.3" |[[{{CURRENTDAY}}. {{CURRENTMONTHNAME}}|{{CURRENTDAY}}.]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]], {{CURRENTTIME}} [[UTC]]<br><br><span class="plainlinks" style="font-size:90%;"></span>
+|style="padding:1em;text-align:right;line-height:1.3" |{{#ifexist:{{CURRENTDAY}}. {{CURRENTMONTHNAME}}|[[{{CURRENTDAY}}. {{CURRENTMONTHNAME}}|{{CURRENTDAY}}.]]|{{CURRENTDAY}}.}} {{#ifexist:{{CURRENTMONTHNAME}}|[[{{CURRENTMONTHNAME}}]]|{{CURRENTMONTHNAME}}}} {{#ifexist:{{CURRENTYEAR}}|[[{{CURRENTYEAR}}]]|{{CURRENTYEAR}}}}, {{CURRENTTIME}} {{#ifexist:UTC|[[UTC]]|UTC}}<br><br><span class="plainlinks" style="font-size:90%;"></span>
 |-
 |Colspan="2" style="text-align:center;"|
 Kashte janes mai but sar te das vast te baryol i Vikipidiya, drabar (chitisar) [[Vikipidiya:Mishto avilyan|o sikavno]].<br/>
