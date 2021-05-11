@@ -34,7 +34,7 @@ ABP_KKZ_po_themutno_mashkar_sa_le_themende=105to|
 IMD_bersh=2003|
 IMD=0.780|
 IMD_mashkar_sa_le_themende=72to|
-IMD_kategoriya=<font color = "#FFCC00">mashkaruno</font>|
+IMD_kategoriya=<span style="color:#FFCC00;">mashkaruno</span>|
 lovo=[[Lek]]|
 lovosko kodo=ALL|
 uov_offset=+1|
