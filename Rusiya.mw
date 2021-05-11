@@ -34,7 +34,7 @@ ABP_KKZ_po_themutno_mashkar_sa_le_themende=59|
 IMD_bersh=2008|
 IMD=0.806|
 IMD_mashkar_sa_le_themende=65|
-IMD_kategoriya=<font color="#FFCC00">mashkaruno</font>|
+IMD_kategoriya=<span style="color:#FFCC00;">mashkaruno</span>|
 lovo=[[Rusiyaki rubla|Rubla]]|
 lovosko kodo=RUB|
 uov_offset= +2 to +12|
