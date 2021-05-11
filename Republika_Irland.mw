@@ -1,8 +1,8 @@
 {{MoxtonThema|
-anav= Ketnepen Galyero| 
+anav= Ketnepen Galyero|
 Anav andi themeski chhib=Éire<br />Ireland|
 Chitro_le_styagosko=Flag of Ireland.svg|
-Chitro_la_stemako=Coat_of_arms_of_Ireland.svg|
+Chitro_la_stemako=Coat of arms of Ireland.svg|
 themesko_motto=nai|
 themesko_gili=Amhrán na bhFiann|
 chitro_map=LocationIreland.png|
@@ -34,7 +34,7 @@ ABP_KKZ_po_themutno_mashkar_sa_le_themende=4to|
 IMD_bersh=2003|
 IMD=0.946|
 IMD_mashkar_sa_le_themende=8to|
-IMD_kategoriya=<font color="#009900">baro</font>|
+IMD_kategoriya=<span style="color:#009900;">baro</span>|
 lovo=[[Evro]] (€)|
 lovosko kodo=EUR|
 uov_offset=+0|
